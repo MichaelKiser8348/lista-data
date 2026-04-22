@@ -198,6 +198,9 @@ http://cinemagold.club:80//live/Leec3324/Leec3324/444079.ts
 #EXTINF:-1,L1 MAX
 http://daleplaytv.vip:80//live/123MMM/654321/306889.ts
 
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
+
 #EXTINF:-1,TUDN USA
 https://tv.nousiptv.com:8443/Lopera77/872399/1105665
 
