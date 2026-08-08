@@ -270,11 +270,8 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1147319
 #EXTINF:-1,LA LIGA opcion 1
 http://cinemagold.club:80//live/Leec3324/Leec3324/406839.ts
 
-#EXTINF:-1,LA LIGA opcion 2
-http://cinemagold.club:80//live/Leec3324/Leec3324/406871.ts
-
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max SD
-http://38.183.182.166:8000/play/a12t/index.m3u8
+https://5.tvlibre.pe/liga1max/mono.m3u8?token=fbee91034c652adb4f5a7c26ed9bcadd4c603903-f6-1786176567-1786158567
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Sports",L1 Max (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
